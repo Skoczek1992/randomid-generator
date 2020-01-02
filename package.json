@@ -1,0 +1,7 @@
+{
+  "name": "@skoczek1992/randomid-generator",
+  "version": "1.0.0",
+  "description": "small app for learning",
+  "main": "index.js",
+  "license": "MIT"
+}
